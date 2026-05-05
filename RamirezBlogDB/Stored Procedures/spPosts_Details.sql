@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [dbo].[spPosts_Detail]
+﻿CREATE PROCEDURE [dbo].[spPosts_Details]
 	@id int
 
 AS

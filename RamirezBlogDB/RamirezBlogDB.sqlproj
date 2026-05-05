@@ -67,7 +67,7 @@
     <Build Include="Stored Procedures\SpUsers_Register.sql" />
     <Build Include="Stored Procedures\spPosts_Insert.sql" />
     <Build Include="Stored Procedures\spPosts_List.sql" />
-    <Build Include="Stored Procedures\spPosts_Detail.sql" />
+    <Build Include="Stored Procedures\spPosts_Details.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="RamirezBlogDB.publish.xml" />
