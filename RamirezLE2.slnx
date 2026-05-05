@@ -1,7 +1,7 @@
 <Solution>
   <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
   <Project Path="BlogTestUI/BlogTestUI.csproj" />
-  <Project Path="RamirezBlogDB/RamirezBlogDB.sqlproj">
+  <Project Path="RamirezBlogDB/RamirezBlogDB.sqlproj" Id="0a9cfa51-8f8f-42a4-8ba9-6bf2060b9725">
     <Build />
     <Deploy />
   </Project>
